@@ -1,0 +1,8 @@
+BACKGROUND STUDY:
+-----------------
+
+Total blindness is the inability to tell light from dark, or the total inability to see while visual impairment or low vision is a severe reduction in vision that cannot be corrected with standard glasses or contact lenses and reduces a person's ability to function at certain or all tasks. Blindness is a problem faced all over the world.
+
+One of the biggest challenges faced by blind people is when they are moving outdoors where there are uneven terrains, obstacles such as cars, rocks and holes and not knowing where to go without the ability to see. Traditionally, blind people use walking sticks or guide dogs to help them move around and they are limited to move only around familiar places. Navigation is the science (or art) of directing the course of a mobile robot as it traverses the environment. Inherent in any navigation scheme is the desire to reach a destination without getting lost or crashing into another object. Put simply, the navigation problem is to find a path from start to goal, which meets the task constraints, and to traverse that path without collision.
+
+There has been many outdoor navigation systems proposed by previous researchers. However, sometimes the design has not been made based on the needs of the blind people. There is a need to study the needs of the blind people in order to design a practical object identification and navigation system. The result of the findings revealed that blind people require a navigation system that is portable and able to help them perform the common chores such as cross the roads and avoid obstacles during their outdoor and indoor excursions while retaining the blind person’s identity that is the walking stick and black glasses.
