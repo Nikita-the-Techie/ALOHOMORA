@@ -1,0 +1,20 @@
+EXISTING SYSTEMS:
+-----------------
+
+The blind people use the traditional long white cane as a device to help them for indoor and outdoor navigation. Even though it is cheap and requires minimal training for the blind to use it to find their way towards the place they want to go, only tactile information that is within the reach of the cane is available. For instance in outdoor usage where wide sidewalks are common, the use of the white cane can be difficult. Mud and other off-road conditions would certainly aggravate the challenge of using the cane for independent travel.
+
+As technology continues to evolve, several new systems have been created to help the blind people navigate their way around in particular for outdoor excursions. Most of the outdoor navigation systems for visually impaired people is based on data from the GPS maps and Geographic Information Systems (GIS) such as Wayfinder Access (Wayfinder Systems AB), Trekker and BrailleNote GPS (Human Ware), MobileGeo (Code Factory) and Drishti (University of Florida). Such systems cannot be used for navigation in the regions where there are not any GPS maps or the maps are not sufficiently precise and detailed.
+
+Some works on GPS navigation includes the System for Wearable Audio Navigation (SWAN) System developed by Georgia Tech. The system uses sensors and tracking chip worn on the head to send data to the SWAN applications on the laptop which computes the user's location and in what direction he is looking, maps the travel route, then sends 3-D audio cues to the bone phones to guide the traveller along a path to the destination.
+
+A few mobile robot researchers have attempted to develop navigation systems using ultrasonic sensing to detect landmarks. Kimoto and Yuta used the standard deviation of ultrasonic range readings to detect a hedge from a moving robot while a combination of vision and ultrasonic sensing was used by Maeyama et al. to detect trees along a path.
+
+Another system using vision-based positioning to guide the blind people has also been proposed. These systems use image processing techniques to enable the system to identify the path to be taken and the obstacles in the path. Galatas et al. designed an assistive–guide robot, eyeDog, as an alternative to the current use of guide dogs for the blind. The system uses computer vision to determine the path to be taken and is mounted on a movable platform to move in the desired path for the blind people to follow.
+
+Andò used a multisensory approach to guide the blind people in navigating through certain urban areas. The low-cost device uses a sonar module as well as a passive infrared motion sensor where it will provide information on distance and speed of other moving people within range of 10 m.
+
+Another system designed was an “intelligent” blind stick by Mândru et al. where the blind stick was outfitted with ultrasonic sensors and a piezo buzzer. The piezo buzzer gives an alarm sound that grows more intense as the blind person becomes closer to an obstacle.
+
+Sung et al. also designed a different intelligent guide stick where the guide stick is connected to two DC motors and an ultrasonic sensor which is outfitted on top of a stepping motor that has a range of 180°. When the ultrasound sensor detects an obstacle, the walking stick will activate the DC motors to move the blind person out of the obstacle’s path before continuing onwards.
+
+It can be summarized that previous works have focused on GPS tracking for moving from one location to the other and the use of ultrasonic and vision-based positioning to identify pathway and its obstructions. There are still other issues that hinders the blind from moving outdoors such as crossing the road with cars coming from left and right (assuming no traffic light) and reading off traffic light (e.g. blind people cannot see if the traffic light is green or red) designations. Therefore, there is a need for a system to be provided to the blind people which can help them in object identification and navigation.
