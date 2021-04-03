@@ -1,0 +1,10 @@
+SCOPE OF WORK:
+--------------
+
+ALOHOMORA is a vision-based blind stick. It aims at providing the visually impaired people with an easy-to-use and handy object identification and navigation system.
+
+The model that we will be using for object identification has been trained on the images of famous and/or common objects and/or obstacles that can be encountered by a visually impaired person in everyday life. This information will act as the basis for the results given to the user.
+
+Also, the distance to the object and/or obstacle will be calculated using a sensor and accordingly the information will be used to inform the person about the range or distance at which the object is. For this, we make use of a buzzer which can inform the person about the object and/or obstacle when it is within a specified range.
+
+Furthermore, the system needs a continuous power supply for its operation. The program on the mini-computer should always be running in order to provide satisfying results to the visually impaired person.
